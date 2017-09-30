@@ -1,0 +1,7 @@
+id=gadisabler
+name=AssistantDisabler
+version=v1.0
+versionCode=1.0
+author=vazbloke
+description=Disables Google Assistant entirely. Works via build.prop edit (resetprop)
+template=2
